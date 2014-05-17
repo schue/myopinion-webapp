@@ -1,0 +1,33 @@
+{
+  "name": "hrdashboard-webapp",
+  "private": true,
+  "dependencies": {
+    "ofbiz-backbone-models": "git@gitlab.brainfood.com:brainfood/ofbiz-backbone-models.git",
+    "backbone": "~1.1.0",
+    "underscore": "~1.6.0",
+    "rivets": "~0.6.6",
+    "rivets-backbone-adapter": "~1.1.1",
+    "requirejs": "~2.1.10",
+    "text": "requirejs-text#~2.0.10",
+    "modernizr": "~2.6.2",
+    "jquery": "~1.10.2",
+    "bootstrap": "~3.1.0",
+    "backbone-validation": "0.9.1",
+    "Effeckt.css": "git://github.com/h5bp/Effeckt.css.git",
+    "infinity": "",
+    "i18n": "requirejs-i18n#~2.0.4",
+    "backbone-nested-models": "git@gitlab.brainfood.com:brainfood/backbone-nested-models.git",
+    "rivets-error-binder": "git@gitlab.brainfood.com:brainfood/rivets-error-binder.git#0.1.0",
+    "jquery.cookie": "~1.4.0",
+    "masonry": "~3.1.5",
+    "get-size": "~1.1.7",
+    "outlayer": "~1.2.0",
+    "masonry-shim": "~3.1.4",
+    "backbone-seen": "git@gitlab.brainfood.com:brainfood/backbone-seen.git",
+    "driverup-mockdata": "git@gitlab.brainfood.com:driverup/mock-data.git",
+    "jquery-waypoints": "~2.0.4",
+    "backbone-pageable": "~1.4.8",
+    "imagesloaded": "~3.1.5"
+  },
+  "devDependencies": {}
+}

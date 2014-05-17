@@ -1,0 +1,8 @@
+[
+	{
+		name: 'Best pizza',
+		createdDate: '1/1/2014',
+		participants: 100,
+		endDate: '12/1/2014'
+	}
+]

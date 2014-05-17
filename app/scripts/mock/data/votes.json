@@ -4,5 +4,37 @@
 		createdDate: '1/1/2014',
 		participants: 100,
 		endDate: '12/1/2014'
+	},
+	{
+		name: 'Favourite Singer',
+		createdDate: '5/1/2014',
+		participants: 100,
+		endDate: '7/1/2014'
+	},
+		name: 'Reliable Laptop Brand',
+		createdDate: '5/1/2014',
+		participants: 100,
+		endDate: '7/1/2014'
+	},
+		name: 'Store Nearest PolyU',
+		createdDate: '5/1/2014',
+		participants: 100,
+		endDate: '7/1/2014'
+	},
+		name: 'Most Advanced AI Framework',
+		createdDate: '5/1/2014',
+		participants: 100,
+		endDate: '7/1/2014'
+	},
+		name: 'Cross Platform programming tool',
+		createdDate: '5/1/2014',
+		participants: 100,
+		endDate: '7/1/2014'
+	},
+		name: 'Funniest Youtube Video',
+		createdDate: '5/1/2014',
+		participants: 100,
+		endDate: '7/1/2014'
 	}
+	
 ]
